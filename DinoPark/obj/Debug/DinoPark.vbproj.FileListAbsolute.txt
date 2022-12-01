@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive - pmu.edu.my\Documents\Visual Studio 2015\Projects\DinoPark\DinoPark\obj\Debug\DinoPark.createFrm.resources
+C:\Users\User\OneDrive - pmu.edu.my\Documents\Visual Studio 2015\Projects\DinoPark\DinoPark\obj\Debug\DinoPark.loginFrm.resources
+C:\Users\User\OneDrive - pmu.edu.my\Documents\Visual Studio 2015\Projects\DinoPark\DinoPark\obj\Debug\DinoPark.mainFrm.resources
+C:\Users\User\OneDrive - pmu.edu.my\Documents\Visual Studio 2015\Projects\DinoPark\DinoPark\obj\Debug\DinoPark.Resources.resources
+C:\Users\User\OneDrive - pmu.edu.my\Documents\Visual Studio 2015\Projects\DinoPark\DinoPark\obj\Debug\DinoPark.SplashScreen.resources
+C:\Users\User\OneDrive - pmu.edu.my\Documents\Visual Studio 2015\Projects\DinoPark\DinoPark\obj\Debug\DinoPark.vbproj.GenerateResource.Cache
+C:\Users\User\OneDrive - pmu.edu.my\Documents\Visual Studio 2015\Projects\DinoPark\DinoPark\obj\Debug\DinoPark.xml
